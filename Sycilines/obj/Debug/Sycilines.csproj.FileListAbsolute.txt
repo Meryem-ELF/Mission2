@@ -1,0 +1,153 @@
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\Sycilines.exe.config
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\Sycilines.exe
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\Sycilines.pdb
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\Google.Protobuf.dll
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\MySql.Data.dll
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\System.Buffers.dll
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\System.Memory.dll
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\ZstdNet.dll
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\Google.Protobuf.pdb
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\Google.Protobuf.xml
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\MySql.Data.xml
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\System.Buffers.xml
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\System.Memory.xml
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\obj\Debug\Sycilines.csproj.AssemblyReference.cache
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\obj\Debug\Sycilines.csproj.SuggestedBindingRedirects.cache
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\obj\Debug\Sycilines.Properties.Resources.resources
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\obj\Debug\ScilyLinesMission2.Ajouter.resources
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\obj\Debug\ScilyLinesMission2.PageAccueil.resources
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\obj\Debug\Sycilines.csproj.GenerateResource.cache
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\obj\Debug\Sycilines.csproj.CoreCompileInputs.cache
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\obj\Debug\Sycilines.csproj.CopyComplete
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\obj\Debug\Sycilines.exe
+C:\Users\galax\Documents\projet\Sycilines\Sycilines\obj\Debug\Sycilines.pdb
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\Sycilines.exe.config
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\Sycilines.exe
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\Sycilines.pdb
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\Google.Protobuf.dll
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\MySql.Data.dll
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\System.Buffers.dll
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\System.Memory.dll
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\ZstdNet.dll
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\Google.Protobuf.pdb
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\Google.Protobuf.xml
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\MySql.Data.xml
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\System.Buffers.xml
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\System.Memory.xml
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\obj\Debug\Sycilines.csproj.AssemblyReference.cache
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\obj\Debug\Sycilines.csproj.SuggestedBindingRedirects.cache
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\obj\Debug\Sycilines.Properties.Resources.resources
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\obj\Debug\ScilyLinesMission2.Ajouter.resources
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\obj\Debug\ScilyLinesMission2.PageAccueil.resources
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\obj\Debug\Sycilines.csproj.GenerateResource.cache
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\obj\Debug\Sycilines.csproj.CoreCompileInputs.cache
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\obj\Debug\Sycilines.csproj.CopyComplete
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\obj\Debug\Sycilines.exe
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\obj\Debug\Sycilines.pdb
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\Sycilines.exe.config
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\Sycilines.exe
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\Sycilines.pdb
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\MySql.Data.dll
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\System.Buffers.dll
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\System.Memory.dll
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\ZstdNet.dll
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\MySql.Data.xml
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\System.Buffers.xml
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\System.Memory.xml
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\obj\Debug\Sycilines.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\obj\Debug\Sycilines.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\obj\Debug\Sycilines.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\obj\Debug\ScilyLinesMission2.Ajouter.resources
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\obj\Debug\ScilyLinesMission2.PageAccueil.resources
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\obj\Debug\Sycilines.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\obj\Debug\Sycilines.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\obj\Debug\Sycilines.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\obj\Debug\Sycilines.exe
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\obj\Debug\Sycilines.pdb
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\obj\Debug\Sycilines.Modifier.resources
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\obj\Debug\Sycilines.Modifier.resources
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\obj\Debug\Sycilines.Vue.confirmLiaison.resources
+C:\Users\PC\Documents\GitHub\htdocs\Sycilines\obj\Debug\Sycilines.Vue.Supprimer.resources
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\obj\Debug\Sycilines.Vue.confirmLiaison.resources
+C:\Users\galax\Documents\GitHub\htdocs\Mission 2\Sycilines\obj\Debug\Sycilines.Vue.Supprimer.resources
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\Sycilines.exe.config
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\Sycilines.exe
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\Sycilines.pdb
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\Google.Protobuf.dll
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\MySql.Data.dll
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\System.Buffers.dll
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\System.Memory.dll
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\ZstdNet.dll
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\Google.Protobuf.pdb
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\Google.Protobuf.xml
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\MySql.Data.xml
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\System.Buffers.xml
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\System.Memory.xml
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\obj\Debug\Sycilines.csproj.AssemblyReference.cache
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\obj\Debug\Sycilines.csproj.SuggestedBindingRedirects.cache
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\obj\Debug\Sycilines.Properties.Resources.resources
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\obj\Debug\ScilyLinesMission2.Ajouter.resources
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\obj\Debug\Sycilines.Vue.confirmLiaison.resources
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\obj\Debug\Sycilines.Modifier.resources
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\obj\Debug\ScilyLinesMission2.PageAccueil.resources
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\obj\Debug\Sycilines.Vue.Supprimer.resources
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\obj\Debug\Sycilines.csproj.GenerateResource.cache
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\obj\Debug\Sycilines.csproj.CoreCompileInputs.cache
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\obj\Debug\Sycilines.csproj.CopyComplete
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\obj\Debug\Sycilines.exe
+C:\Users\galax\Documents\GitHub\MISSION 2\Mission2\Sycilines\obj\Debug\Sycilines.pdb
