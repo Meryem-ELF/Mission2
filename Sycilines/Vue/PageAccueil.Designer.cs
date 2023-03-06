@@ -40,6 +40,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.modifier = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
+            this.affichage = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -81,7 +82,7 @@
             // 
             // ajouter
             // 
-            this.ajouter.Location = new System.Drawing.Point(352, 331);
+            this.ajouter.Location = new System.Drawing.Point(354, 331);
             this.ajouter.Name = "ajouter";
             this.ajouter.Size = new System.Drawing.Size(105, 23);
             this.ajouter.TabIndex = 4;
@@ -156,12 +157,21 @@
             this.label5.Text = "Sycilines Admin";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // affichage
+            // 
+            this.affichage.AutoSize = true;
+            this.affichage.Location = new System.Drawing.Point(389, 283);
+            this.affichage.Name = "affichage";
+            this.affichage.Size = new System.Drawing.Size(0, 13);
+            this.affichage.TabIndex = 11;
+            // 
             // PageAccueil
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.HighlightText;
             this.ClientSize = new System.Drawing.Size(800, 529);
+            this.Controls.Add(this.affichage);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.modifier);
             this.Controls.Add(this.label4);
@@ -175,7 +185,7 @@
             this.Controls.Add(this.secteurBox);
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Name = "PageAccueil";
-            this.Text = "Sycilines";
+            this.Text = " ";
             this.Load += new System.EventHandler(this.PageAccueil_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
@@ -196,6 +206,7 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button modifier;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label affichage;
     }
 }
 

@@ -34,8 +34,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.sousTitre = new System.Windows.Forms.Label();
             this.duree = new System.Windows.Forms.TextBox();
-            this.arrive = new System.Windows.Forms.TextBox();
-            this.depart = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
@@ -43,6 +41,8 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.indice = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.listBox2 = new System.Windows.Forms.ListBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -94,29 +94,15 @@
             // 
             // duree
             // 
-            this.duree.Location = new System.Drawing.Point(365, 184);
+            this.duree.Location = new System.Drawing.Point(365, 167);
             this.duree.Name = "duree";
             this.duree.Size = new System.Drawing.Size(100, 20);
             this.duree.TabIndex = 12;
             // 
-            // arrive
-            // 
-            this.arrive.Location = new System.Drawing.Point(365, 259);
-            this.arrive.Name = "arrive";
-            this.arrive.Size = new System.Drawing.Size(100, 20);
-            this.arrive.TabIndex = 14;
-            // 
-            // depart
-            // 
-            this.depart.Location = new System.Drawing.Point(365, 224);
-            this.depart.Name = "depart";
-            this.depart.Size = new System.Drawing.Size(100, 20);
-            this.depart.TabIndex = 15;
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(291, 184);
+            this.label5.Location = new System.Drawing.Point(291, 167);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(48, 26);
             this.label5.TabIndex = 16;
@@ -125,7 +111,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(291, 218);
+            this.label6.Location = new System.Drawing.Point(162, 205);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(52, 26);
             this.label6.TabIndex = 17;
@@ -134,7 +120,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(291, 253);
+            this.label7.Location = new System.Drawing.Point(386, 205);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(47, 26);
             this.label7.TabIndex = 18;
@@ -162,24 +148,43 @@
             // 
             // indice
             // 
-            this.indice.Location = new System.Drawing.Point(365, 142);
+            this.indice.Location = new System.Drawing.Point(365, 125);
             this.indice.Name = "indice";
             this.indice.Size = new System.Drawing.Size(100, 20);
             this.indice.TabIndex = 21;
+            // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(287, 149);
+            this.label3.Location = new System.Drawing.Point(287, 132);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(72, 13);
             this.label3.TabIndex = 22;
             this.label3.Text = "Définir l\'indice\r\n";
+            // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.Location = new System.Drawing.Point(239, 205);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(120, 95);
+            this.listBox1.TabIndex = 23;
+            // 
+            // listBox2
+            // 
+            this.listBox2.FormattingEnabled = true;
+            this.listBox2.Location = new System.Drawing.Point(439, 205);
+            this.listBox2.Name = "listBox2";
+            this.listBox2.Size = new System.Drawing.Size(120, 95);
+            this.listBox2.TabIndex = 24;
             // 
             // Ajouter
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.listBox2);
+            this.Controls.Add(this.listBox1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.indice);
             this.Controls.Add(this.pictureBox1);
@@ -187,8 +192,6 @@
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.depart);
-            this.Controls.Add(this.arrive);
             this.Controls.Add(this.duree);
             this.Controls.Add(this.sousTitre);
             this.Controls.Add(this.label4);
@@ -210,8 +213,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label sousTitre;
         private System.Windows.Forms.TextBox duree;
-        private System.Windows.Forms.TextBox arrive;
-        private System.Windows.Forms.TextBox depart;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
@@ -219,5 +220,7 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.TextBox indice;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ListBox listBox2;
     }
 }

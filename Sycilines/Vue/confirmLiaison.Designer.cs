@@ -32,6 +32,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.confirm = new System.Windows.Forms.Label();
             this.retourAccueil = new System.Windows.Forms.Button();
+            this.info = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label2
@@ -77,18 +78,26 @@
             this.retourAccueil.UseVisualStyleBackColor = true;
             this.retourAccueil.Click += new System.EventHandler(this.retourAccueil_Click);
             // 
+            // info
+            // 
+            this.info.AutoSize = true;
+            this.info.Location = new System.Drawing.Point(41, 109);
+            this.info.Name = "info";
+            this.info.Size = new System.Drawing.Size(0, 13);
+            this.info.TabIndex = 15;
+            // 
             // confirmLiaison
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(344, 270);
+            this.Controls.Add(this.info);
             this.Controls.Add(this.retourAccueil);
             this.Controls.Add(this.confirm);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
             this.Name = "confirmLiaison";
             this.Text = "confirmLiaison";
-            this.Load += new System.EventHandler(this.confirmLiaison_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -100,5 +109,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label confirm;
         private System.Windows.Forms.Button retourAccueil;
+        private System.Windows.Forms.Label info;
     }
 }

@@ -91,7 +91,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controlleur\ConnexionSQL.cs" />
+    <Compile Include="DAL\ConnexionSQL.cs" />
+    <Compile Include="DAL\LiaisonDAO.cs" />
+    <Compile Include="DAL\SecteurDAO.cs" />
     <Compile Include="Modele\Liaison.cs" />
     <Compile Include="Modele\Secteur.cs" />
     <Compile Include="Vue\confirmLiaison.cs">
@@ -166,6 +168,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Images\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controlleur\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,5 +1,6 @@
 ﻿using MySql.Data.MySqlClient;
 using Sycilines;
+using Sycilines.DAL;
 using Sycilines.Modele;
 using Sycilines.Vue;
 using System;
@@ -27,7 +28,7 @@ namespace ScilyLinesMission2
             ajouter.Hide();
             supprimer.Hide();
             modifier.Hide(); //Pour le moments on les chache parce que y a aucune liaison a modifier ou supprimer ou ajouter
-            ConnexionSql connexion = ConnexionSql.getInstance("localhost", "sycilines", "connexionBDD", "f9(5HttDX0wXqA-R");
+            /*ConnexionSql connexion = ConnexionSql.getInstance("localhost", "sycilines", "connexionBDD", "f9(5HttDX0wXqA-R");
             connexion.openConnection();
             MySqlCommand secteurCommande = connexion.reqExec("select id,nom from secteur"); //Requête affichant tous les secteurs
             MySqlDataReader secteur = secteurCommande.ExecuteReader(); //Requete renvoyant plusieurs résultat
@@ -43,35 +44,65 @@ namespace ScilyLinesMission2
                 Console.WriteLine("No rows found."); //information de la console disant aucune ligne
             }
             secteur.Close();
-            connexion.closeConnection();
+            connexion.closeConnection();*/
+            List < Secteur > listeSecteur = SecteurDAO.chargementSecteur();
+
+            for (int i = 0; i < listeSecteur.Count; i++)
+            {
+                secteurBox.Items.Add(listeSecteur[i].getNom());
+            }
         }
 
         private void secteurBox_SelectedIndexChanged(object sender, EventArgs e)
         {
             supprimer.Hide();
             modifier.Hide();
-            ajouter.Show(); //après seclectionner le secteur le button Ajouter s'affiche
+            ajouter.Show();
+            liaisonBox.Items.Clear();
+            /*//après seclectionner le secteur le button Ajouter s'affiche
             int indiceSecteur = secteurBox.SelectedIndex+1; //pour affiche le secteur identique à son indice
             ConnexionSql connexion = ConnexionSql.getInstance("localhost", "sycilines", "connexionBDD", "f9(5HttDX0wXqA-R");
             connexion.openConnection();
-            liaisonBox.Items.Clear();
             // Requête qui donne les ports d'arrivées des liaisons du secteur séléctionné
-            MySqlCommand liaisonCommande = connexion.reqExec("select P.nom from port P join liaison L On P.id = L.portArrivee JOIN secteur S on S.id = L.idSecteur where S.id = "+ indiceSecteur);
-            MySqlDataReader resultLiaison = liaisonCommande.ExecuteReader(); 
+            MySqlCommand liaisonCommande = connexion.reqExec("select P.nom from port P join liaison L On P.id = L.portDepart JOIN secteur S on S.id = L.idSecteur where S.id = " + indiceSecteur);
+            MySqlDataReader resultLiaison = liaisonCommande.ExecuteReader();
+            int i = 0;
+            List<string> listeDepart = new List<string>();
             if (resultLiaison.HasRows) // Condition qui permet de lire chaque element de ligne
             {
                 while (resultLiaison.Read())
                 {
-                    liaisonBox.Items.Add(resultLiaison.GetString(0));
+                    listeDepart.Add(resultLiaison.GetString(0));
+                    i += 1;
                 }
             }
             else
             {
                 Console.WriteLine("No rows found.");
             }
+            Console.WriteLine(i);
             resultLiaison.Close();
+            MySqlCommand liaisonCommande2 = connexion.reqExec("select P.nom from port P join liaison L On P.id = L.portArrivee JOIN secteur S on S.id = L.idSecteur where S.id = " + indiceSecteur);
+            MySqlDataReader resultLiaison2 = liaisonCommande2.ExecuteReader();
+            if (resultLiaison2.HasRows) // Condition qui permet de lire chaque element de ligne
+            {
+                int j = 0;
+                while (resultLiaison2.Read() && j < i)
+                {
+                    liaisonBox.Items.Add(listeDepart[j]+"-"+resultLiaison2.GetString(0));
+                    j += 1;
+                }
+            }
+            else
+            {
+                Console.WriteLine("No rows found.");
+            }
+            resultLiaison2.Close();
             //fermeture de la connextion
-            connexion.closeConnection();
+            connexion.closeConnection();*/
+
+            List<Liaison> listeLiaison = new List<Liaison>;
+            listeLiaison = LiaisonDAO.chargementLiaisonSecteur(secteurBox.SelectedItem);
         }
 
         private void ajouter_Click(object sender, EventArgs e)
@@ -91,6 +122,7 @@ namespace ScilyLinesMission2
             //après selectionner le secteur et la liaison les buttons supprimer et modifier s'affichent
             supprimer.Show();
             modifier.Show();
+            
         }
 
         private void supprimer_Click(object sender, EventArgs e)
