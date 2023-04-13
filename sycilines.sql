@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1:3306
--- Généré le : jeu. 13 oct. 2022 à 10:37
+-- Généré le : mar. 11 avr. 2023 à 21:14
 -- Version du serveur : 5.7.36
 -- Version de PHP : 7.4.26
 
@@ -46,10 +46,16 @@ CREATE TABLE IF NOT EXISTS `liaison` (
 --
 
 INSERT INTO `liaison` (`id`, `duree`, `portDepart`, `portArrivee`, `idSecteur`) VALUES
-(3, '1H36', 1, 2, 1),
+(3, '2H', 1, 2, 1),
 (2, '1H', 3, 5, 1),
 (6, '2H', 2, 6, 2),
-(7, '6H', 2, 3, 3);
+(7, '1H', 2, 3, 3),
+(8, '1H34', 1, 6, 2),
+(10, '1H56', 6, 5, 1),
+(11, '1H', 4, 1, 3),
+(12, '1H32', 1, 4, 1),
+(1, '1H56', 1, 2, 3),
+(4, '3H', 6, 1, 2);
 
 -- --------------------------------------------------------
 
